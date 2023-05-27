@@ -11,9 +11,7 @@
 
 
 <!--- snake -->
-<div align="center">
   ![Snake animation](https://github.com/federicovolpe/federicovolpe/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 
 <!--h2 without bottom border-->
