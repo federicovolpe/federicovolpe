@@ -12,13 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+  ![Snake animation](https://github.com/federicovolpe/federicovolpe/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
