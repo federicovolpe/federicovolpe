@@ -9,11 +9,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-  ![Snake animation](https://github.com/federicovolpe/federicovolpe/blob/output/github-contribution-grid-snake.svg)
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
