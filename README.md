@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -19,9 +18,9 @@
 
 <!--Intro start-->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-- 🔭 I’m currently working on **SQL, PHP, CSS, HTML, JAVA**
+- 🔭 I’m currently working on **ERLANG**
 
-- 🌱 I’m currently learning **HTML, CSS and PHP**
+- 🌱 I’m currently learning **OCAML, ERLANG and SCALA**
 
 - ☁️ I've keen interest in game development. So here i am at uni
 
@@ -101,4 +100,4 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Last Edited on: 3/7/2023
+Last Edited on: 12/11/2023
