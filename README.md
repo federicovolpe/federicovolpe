@@ -11,22 +11,22 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tomorrow is the day i'll start learn programming</h2></summary>
+    <summary><h2 style="display: inline-block">Tomorrow is the day i'll start learning programming</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-- 🔭 I’m currently working on **ERLANG**
+- 🔭 I’m currently working on **simple website projects**
 
-- 🌱 I’m currently learning **OCAML, ERLANG and SCALA**
+- 🌱 I’m currently learning **TYPESCRIPT, JAVASCRIPT**
 
 - ☁️ I've keen interest in game development. So here i am at uni
 
 - 💬 Ask me about **unimi**
 
-- 📫 Feel free to reach me out **federico.volpe@studenti.unimi.it**
+- 📫 Feel free to reach me out **federico.volpe@studenti.unimi_dot_it**
 <!--Intro end-->
 
 
@@ -75,7 +75,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,java,erlang,css,docker,postgresql,github,html,linux,py,erlang,assembly,go,ocaml,scala,sql,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,java,erlang,css,docker,postgresql,react,javascript,github,html,linux,py,erlang,assembly,go,ocaml,scala,sql,vscode&perline=14" />
   </a>
 </p>
 
