@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **unimi**
 
-- 📫 Feel free to reach me out **federico.volpe<at>studenti.unimi_dot_it**
+- 📫 Feel free to reach me out **federico.volpe_at_studenti.unimi_dot_it**
 <!--Intro end-->
 
 
